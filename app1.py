@@ -273,3 +273,4 @@ st.sidebar.header("环境信息")
 st.sidebar.text(f"Pandas版本: {pd.__version__}")
 st.sidebar.text(f"Numpy版本: {np.__version__}")
 st.sidebar.text(f"Fitparse可用: {FITPARSE_AVAILABLE}")
+#test
